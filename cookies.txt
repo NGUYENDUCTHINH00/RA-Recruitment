@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tapchicongthuong.vn	TRUE	/	FALSE	1999999999	PHPSESSID	a8afe2f9c948eb8a4b82751eb59f25dc
+tapchicongthuong.vn	TRUE	/	FALSE	1999999999	_csrf	165840694d5c4586953c9f830a67920b98a2db0dd5e65225c129d3e3fccfd4eba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22rThKHeZZsGhD6ztWAxbMQTNQBR3aOGJ8%22%3B%7D
+tapchicongthuong.vn	TRUE	/	FALSE	1999999999	lnx_is_mobile	4d91849af5c339d085a9ed081abbfd5917c2d2fd6cdb670b7b5bd98bd70cd9baa%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22lnx_is_mobile%22%3Bi%3A1%3Bi%3A0%3B%7D
+tapchicongthuong.vn	TRUE	/	FALSE	1999999999	SameSite	Lax
+adminvov1.vov.gov.vn	TRUE	/	FALSE	1999999999	BIGipServerP_Admin_VOV3	919212204.20480.0000
+
